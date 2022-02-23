@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gentlemen wool merchants and serge-buyers case</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42621</idno>
+            <idno type="STC">Wing G523</idno>
+            <idno type="STC">ESTC R218316</idno>
+            <idno type="EEBO-CITATION">99829922</idno>
+            <idno type="PROQUEST">99829922</idno>
+            <idno type="VID">34369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42621)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34369)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2029:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gentlemen wool merchants and serge-buyers case</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>ca. 1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date estimated by Wing.</note>
+                  <note>The word "buyers" in title has been scratched out and replaced with "maker's" in MS.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34369:1" rendition="simple:additions"/>
+            <head>The Gentlemen Wool Merchants and Serge-buyers CASE.</head>
+            <opener>Shewing,</opener>
+            <p>THE Ingroſſing the Wool of <hi>Ireland</hi> into private Hands, projected by ſome particular Factors upon Commiſſion for Foreigners, is highly prejudicial to the publick Trade of the Nation, will keep down the price of <hi>Engliſh</hi> Wool, and leſſen the value of our Lands in <hi>England,</hi> by cauſing the Rents to fall.</p>
+            <p>Theſe Sergebuyers Factors to Foreigners upon the Credit of their great and large Commiſſions, draw all the Sergemakers about the Country to court them for a Mar<g ref="char:EOLhyphen"/>ket and Sale of their Serges, which they take in from the Country at their own Rates and Prices, commonly without any certain Price, or fixed time of payment. And there<g ref="char:EOLhyphen"/>by theſe Factors have generally in their Hands very great Sums of the Country's Mo<g ref="char:EOLhyphen"/>ny (that is, value in Serges) for which they neither give Bill nor Bond. The Serge<g ref="char:EOLhyphen"/>maker having no other ſo certain and ready Market to depend upon, are miſerably aw<g ref="char:EOLhyphen"/>ed and ſubjected to theſe great Factors, that they dare not diſpute or ask for Mony in four, five, ſix; or eight Months time; and can rarely get enough to ſupport the poor Labourer, the Comber and Spinner with daily Bread; but now ſome few of theſe Factors are not content and ſatisfied with this great and profitable Commiſſion Trade, and the Credit of forty or fifty thouſand Pounds of the Country's Mony in their Hands at a time, without giving Bill or Bond for the ſame, as is above ſet forth. But they pro<g ref="char:EOLhyphen"/>ceed further, to imploy and ſettle Factors of their own in the Kingdom of <hi>Ireland,</hi> particularly in the chief Cities and Towns of Trade, as in <hi>Dublin, Corke, Waterford,</hi> &amp;c. to ingroſs and buy up all the Wool in that Kingdom they can lay their Hands up<g ref="char:EOLhyphen"/>on, which they import into <hi>England,</hi> and impoſe upon the Sergemakers they owe Mo<g ref="char:EOLhyphen"/>ny to for their Serges, <hi>6d. 8d. 12d. per</hi> Stone, and more above the Market Price; So that by this Method and Practice, in Fact they buy up Serges here in <hi>England</hi> upon Credit without Mony, and Wool in <hi>Ireland</hi> with the Country's Mony: The Iriſh Bills of Exchange being anſwered and payed in <hi>London</hi> by the Foreign Bills remitted them for Serges. Thus the poor Sergemaker is ſhamefully abuſed, being forced to take Wool after a ſtrange manner, bought with his own Mony, which they privately pack up, and ſend about the Country, to the poor ſort of Sergemakers Houſes, who muſt take it, and dare not refuſe it in what condition ſoever, wet or damniſied, as oftentimes it happens to be: By this evil Practice they break and foreſtall the Staple Markets. And to further and force this unfair Trade, they ſeldom will buy Serges from any, but thoſe that will take Wool from them; their common Anſwer being, your Serges do not ſmell of my Wool: So that the Sergemaker dares not buy a lock of Wool from any Body but them. And the poorer ſort at leaſt (whoſe whole Stocks lie in their Hands) has command of neither Mony, nor Bill, to buy as formerly from the Gentleman and Farmer, or to come to the Staple Ports and open fair Markets, where great quantities of Wool are always to be bought at current Price: And it muſt be obſerved, the break<g ref="char:EOLhyphen"/>ing the ancient Staple Ports and Markets for Wool, and letting it thus fall into private Hands, more eſpecially into Mens Hands that are in the Intereſt of Foreigners, whoſe buſineſs is to buy up Serges as cheap as they can, his Commiſſion being greateſt that can ſerve their Intereſt beſt and buy cheapeſt. This, with humble Submiſſion, if right<g ref="char:EOLhyphen"/>ly conſider'd, muſt appear a Miſchief of the higheſt Conſequence to the Trade of this Kingdom, and perfectly deſtructive to every Gentleman and Farmer's Sale of his Wool And if the Cauſes of the preſent low and dead Price of Wool be nicely inquired into, There does not appear a greater than theſe Sergebuyers ingroſſing, private Selling, Foreſtalling, forcing and breaking the open fair Markets; and allowing but other Mar<g ref="char:EOLhyphen"/>kets for Cattle, &amp;c. to be ſo broke, forced, and foreſtalled; every Gentleman would ſoon feel the Conſequence; and ſurely no particular Commodity ought more to be pre<g ref="char:EOLhyphen"/>ſerved than the noble Staple of Wool this Kingdom ſo juſtly values herſelf upon.</p>
+            <pb n="2" facs="tcp:34369:2" rendition="simple:additions"/>
+            <p>This Evil being grown to that pitch and heighth in three Years time, that no Mer<g ref="char:EOLhyphen"/>chant that is not a Serge-buyer and Wool-Trucker as themſelves can deal in Wool but to loſs, being perfectly beat out of the ancient Trade and Way of living both in <hi>England</hi> and <hi>Ireland,</hi> and to become Agents to theſe Men to their Mortification.</p>
+            <p>So that it is evident theſe ſort of Men muſt have the whole Market for <hi>Iriſh</hi> Wool to themſelves, which is a great Quantity, and of a vaſt Value: And of conſequence the prices both of Wool and Serges will be in a very little time intirely in their Power, if not prevented.</p>
+            <p>The Ingroſſing the Wool of <hi>Ireland</hi> (upon a quite different purpoſe, <hi>viz.</hi> to ad<g ref="char:EOLhyphen"/>vance and keep up the Price of <hi>Engliſh</hi> Wool) has been attempted by ſeveral Bodies of Men, but was always found too big to be maſter'd whilſt the Markets were kept open. But now by this Foreign Aſſiſtance and Method it is to be done, and is already in a great meaſure effected.</p>
+            <p>2. Theſe Serge-buyers and Wool-Truckers getting ſo very conſiderably by the Wool they diſpoſe off after that manner, they can ſerve the Foreigner much cheaper than any other Factor and Serge-buyer that is not concerned in Wool, which makes them all very uneaſie, and to declare publickly, that they muſt likewiſe come into the Wool-trucking Trade too, or lay down their Commiſſions. And yet notwithſtanding it may not be amiſs to obſerve, that theſe Men in Prudence (altho' they wiſh heartily a ſtop may be put to this Practice) are afraid to appear to proſecute this matter in Parliament, leaſt they ſhould by theſe Wool Trucking Merchants be repreſented Ene<g ref="char:EOLhyphen"/>mies to the Intereſt and Profit of thoſe Foreigners they have Imploys from, and ſo loſe their Commiſſions. And the poorer ſort of Serge-makers, whoſe whole Stocks are in their Hands, lie under a greater fear of being more oppreſs'd if they ſhould ap<g ref="char:EOLhyphen"/>pear and the Deſign not ſucceed and take effect.</p>
+            <p>The Continuance of this Trucking Trade will force the Serge-maker to make deceit<g ref="char:EOLhyphen"/>ful trucking Goods, to the Diſcredit of the Manufactory, or leave off the Trade. And the Gentleman and Farmer in a ſhort time muſt come to the Serge-buyer for a Market for their Wool at his Price.</p>
+            <p>The Grievance of this trucking Trade in other Caſes having already been cenſured, condemned, and provided againſt by a Law, it is conceived that matter needs not again in this Paper to be inlarged upon. But only to obſerve, That notwithſtanding there is ſtill a ſort of Men amongſt us, that for their own private Intereſt would un<g ref="char:EOLhyphen"/>mercifully oppreſs and inſlave Mankind were it in their Power.</p>
+            <p>To conclude therefore, hoping what has been offered (tho' a great deal remains to be ſaid) may be ſufficient to convince the World this Project wholly tends to the Ruine of our Trade, the Inſlaving and Impoveriſhing our People, and the Intereſt and Benefit of Foreign Nations.</p>
+            <p>
+               <hi>All which is humbly Submitted to the Wiſdom of the Nation.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
